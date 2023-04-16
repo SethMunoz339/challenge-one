@@ -12,7 +12,7 @@ N/A
 
 this advertisement contains information about services provided by Horiseon, a web development and social media company. there are several sections detailing services and benifits if the company. 
 [screenshot of website](https://github.com/SethMunoz339/challenge-one/blob/main/screenshot.png?raw=true)
-[Link to Website] (https://sethmunoz339.github.io/challenge-one/)
+[Link to Website](https://sethmunoz339.github.io/challenge-one/)
 ## Credits
 
 N/A
