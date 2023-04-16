@@ -11,7 +11,7 @@ N/A
 ## Usage
 
 this advertisement contains information about services provided by Horiseon, a web development and social media company. there are several sections detailing services and benifits if the company. 
-!screenshot of website(https://github.com/SethMunoz339/challenge-one/screenshot.jpg?raw=true)
+!screenshot of website(screenshot.png)
 ## Credits
 
 N/A
